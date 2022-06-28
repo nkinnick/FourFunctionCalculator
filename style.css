@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(171, 171, 247);
+}
+.center {
+width: 400px;
+margin: 0 auto;
+}
+input {
+  font-size: 2em;
+}
+button {
+  font-size: 2em;
+  background-color: white;
+}
+h2 {
+  font-size: 3em;
+}
